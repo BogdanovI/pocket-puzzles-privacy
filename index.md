@@ -79,8 +79,8 @@ If you are in the European Economic Area, the United Kingdom or Switzerland, the
 app asks for your consent before serving personalised ads, using Google's
 User Messaging Platform (UMP), the first time you open it. You may withdraw or
 change your consent at any time from the app's settings, under "Ad privacy
-settings". If you decline personalised ads, you will still see ads, but
-non-personalised ones.
+settings". If you decline personalised ads, you may still see ads, but
+non-personalised or limited ones, as Google's rules allow.
 
 No ads are requested at all until this consent step has completed.
 
